@@ -1,0 +1,9 @@
+.bg_main {
+    background-color: rgb(187, 123, 247);
+    padding: 20px 0px;
+    margin-bottom: 15px;
+}
+
+.bg_main ol li a {
+    color: #fff;
+}
